@@ -1,0 +1,143 @@
+
+*{
+    margin: 0px;
+}
+
+#cabecalho img{
+    width: 170px;
+    height: 65px;
+    padding-top: 10px;
+    margin-left: 50px;
+
+}
+
+#cabecalho{
+    background-color:#FFD900;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+#esquerda {
+    font-family: 'Verdana';
+    background-color: #514988;
+    padding-right: 100px;
+    text-align: center;
+}
+
+#esquerda p{
+    color: white;
+    font-family: 'Verdana';
+    font-weight: 300;
+    font-size: 22px;
+}
+
+#esquerda h2{
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+#esquerda h1 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #FFD900;
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+
+#menuInformacional {
+    display: flex;
+}
+
+#direita{
+    margin-right: 0px;
+    font-family: 'Verdana';
+    margin-top: 21px;
+}
+
+#direita video{
+    width: 750px;
+    height: 450px;
+    margin-left: 15px;
+    padding-left: 0px;
+    
+}
+
+#direita h2{
+    color: #E33881;
+    margin-left: 30px;
+    line-height: 35px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+
+.h1dir {
+    display: inline;
+    font-size: 60px;
+    font-weight: 700;
+    color: #514988;
+    padding-top: 20px;
+    padding: 0px;
+    margin-left: 35px;
+    margin-bottom: 0px;
+}
+
+.h3dir {
+    color: #514988;
+    display: inline;
+    font-size: 60px;
+    font-weight: 700;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+
+#rodape {
+    display: flex;
+}
+
+
+#ingressos {
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+
+
+#ingressos h3 {
+    font-family: 'Verdana';
+    color: #F3C61F;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: 600;
+
+}
+
+.tickets {
+    width: 160px;
+}
+
+
+button{
+    background-color: #514988;
+    color: white;
+    font-family: 'Verdana';
+    border: none;
+    margin-top: 95px;
+    margin-left: 190px;
+    width: 400px;
+    height: 95px;
+    border-radius: 15px;
+    font-size: 27px;
+    font-weight: 600;
+}
+
+button:hover{
+    background: #F3C61F;
+    cursor: pointer;
+}
