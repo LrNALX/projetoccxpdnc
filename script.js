@@ -4,7 +4,7 @@ const minuto = document.getElementById('minuto')
 const segundo = document.getElementById('segundo')
 
 
-const lancamento = "1 apr 2024"
+const lancamento = "1 apr 2030"
 
 
 function countDown(){
